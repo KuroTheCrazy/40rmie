@@ -5,8 +5,8 @@
 *The 40rmie, pronounced "forty-or-me" or "For-me" is a 40%ish keyboard designed by KuroTheCrazy. This board features base kit compatibility with a half numrow, partial fn row, nav cluster, and arrow keys, for perfect ease of use in gaming and work. *
 
 * Keyboard Maintainer: [KuroTheCrazy](https://github.com/kurothecrazy)
-* Hardware Supported: *40rmie v2 PCB*
-* Hardware Availability: *https://p3dstore.com/products/40rmie-pcb-only?_pos=5&_sid=7abb756e4&_ss=r&variant=40371281232056*
+* Hardware Supported: *40rmie v2, v2.5, and v3 PCBs*
+* Hardware Availability: *Currently not available outside of aftermarket.*
 
 Make example for this keyboard (after setting up your build environment):
 
